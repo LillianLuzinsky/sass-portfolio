@@ -15,8 +15,21 @@
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  background: url("../img/model-1.jpg");
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url("../img/model-1.jpg") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("../img/model-1.jpg") center top;
   background-size: cover;
+}
+
+.home__name {
+  font-size: 5rem;
+  padding-bottom: 1rem;
+  margin-top: 1rem;
+  border-bottom: 2px solid white;
+}
+
+.home__name--last {
+  color: #ff652f;
+  font-weight: 700;
 }
 
 body {
@@ -33,6 +46,10 @@ h1, h2, h3 {
 a {
   color: white;
   text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
 }
 
 header {
