@@ -150,7 +150,7 @@
   transition: all 0.5s ease-in-out;
 }
 
-.nav .menu-nav__item .open {
+.nav .menu-nav__item.open {
   -webkit-transform: translateX(0);
           transform: translateX(0);
 }

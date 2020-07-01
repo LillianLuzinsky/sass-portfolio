@@ -89,7 +89,7 @@
             transform: translateX(100vw);
             @include transition-ease;
 
-            .open {
+            &.open {
                 transform: translateX(0);
             }
 
