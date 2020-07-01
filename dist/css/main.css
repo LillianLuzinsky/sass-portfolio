@@ -24,7 +24,7 @@
   font-size: 5rem;
   padding-bottom: 1rem;
   margin-top: 1rem;
-  border-bottom: 2px solid white;
+  border-bottom: 2px solid #fff;
 }
 
 .home__name--last {
@@ -34,7 +34,7 @@
 
 body {
   background: #272727;
-  color: white;
+  color: #fff;
   height: 100vh;
   line-height: 1;
 }
@@ -44,7 +44,7 @@ h1, h2, h3 {
 }
 
 a {
-  color: white;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -87,6 +87,6 @@ footer {
   right: 1rem;
   text-align: right;
   padding: 1rem;
-  color: white;
+  color: #fff;
 }
 /*# sourceMappingURL=main.css.map */
