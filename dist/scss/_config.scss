@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+
 $primary-color: #272727;
 $secondary-color: #ff652f;
 
@@ -5,4 +7,5 @@ $secondary-color: #ff652f;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'Montserrat', sans-serif;
 }
