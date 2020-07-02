@@ -384,7 +384,7 @@
 
 .contact {
   height: 100%;
-  padding-top: 40vh;
+  padding-top: 30vh;
   overflow: hidden;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -413,6 +413,11 @@
       grid-template-columns: 1fr;
   grid-gap: 2rem;
   font-size: 1.5rem;
+}
+
+.contact .social-icons {
+  position: initial;
+  margin-top: 2rem;
 }
 
 body {

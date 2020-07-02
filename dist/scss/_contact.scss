@@ -1,6 +1,6 @@
 .contact{
     height: 100%;
-    padding-top: 40vh;
+    padding-top: 30vh;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -24,5 +24,10 @@
         grid-template-columns: 1fr;
         grid-gap: 2rem;
         font-size: 1.5rem;
+    }
+
+    .social-icons {
+        position: initial;
+        margin-top: 2rem;
     }
 }
