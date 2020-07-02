@@ -1,4 +1,4 @@
-@import 'config', 'home', 'menu';
+@import 'config', 'home', 'menu', 'about';
 
 body{
     background: $primary-color;
@@ -46,6 +46,10 @@ main {
             }
         }
     }  
+}
+
+.text-secondary {
+    color: $secondary-color;
 }
 
 footer {

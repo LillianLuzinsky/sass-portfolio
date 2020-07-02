@@ -238,6 +238,10 @@ main .social-icons a:hover {
   color: #ff652f;
 }
 
+.text-secondary {
+  color: #ff652f;
+}
+
 footer {
   font-size: 1rem;
   position: fixed;
