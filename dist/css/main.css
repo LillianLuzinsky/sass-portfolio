@@ -24,16 +24,13 @@
   font-size: 5rem;
   padding-bottom: 1rem;
   margin-top: 1rem;
+  margin-bottom: 1.5rem;
   border-bottom: 2px solid #fff;
 }
 
 .home__name--last {
   color: #ff652f;
   font-weight: 700;
-}
-
-.home h2.job-title {
-  padding-top: 2rem;
 }
 
 .menu-btn {
